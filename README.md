@@ -1,5 +1,23 @@
 # Product Cards
 
+- Created html, css, and js files.
+- Made the starting div for the first card.
+- Inserted divs to represent each section of the card.
+- Inserted <p> and <img> tags where neccessary and pasted some hipster ipsum in there.
+- Once the first card was complete, I copied and pasted the card skeleton a few times.
+- Once the cards were in place, I began formatting them.
+- I purposefully did not use Bootstrap, because I wanted to get practice using flex-box without it. I already know how to format and make things look pretty with Bootstrap.
+- The cards may not look very pretty, but I think that the desired end result was accomplished.
+
+What I learned:
+
+If I want to make some cards quickly and make them look good, Bootstrap is my friend.
+
+Loom Video: https://www.loom.com/share/3eb48e959a594472aaca145e6cd51f23
+
+
+<!-- # Product Cards
+
 Issue tickets have been created so that you can track your progress. As you complete a ticket, close it out.
 
 ## Study Group Requirements
@@ -77,4 +95,4 @@ Here's an image that shows how the cards should appear.
 1. For items that are no longer available, place [this image](https://raw.githubusercontent.com/morecallan/css102-e6/master/images/soldOut.png) over top of the product card. **Note this is complex positioning, it is going to challenge you.**. What I mean by "over the product card" is ![Sold Out](https://raw.githubusercontent.com/morecallan/css102-e6/master/images/CSS102-Mockup.png)
 
 #### Challenge 4: Display responsively on any size screen!
-1. Use CSS to conditionally apply styles depending on the width of the screen! (or the size of the browser window) You can do this using a fancy thing called [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries). You can find a good example of how to do that [here](https://css-tricks.com/designing-a-product-page-layout-with-flexbox/#article-header-id-4).
+1. Use CSS to conditionally apply styles depending on the width of the screen! (or the size of the browser window) You can do this using a fancy thing called [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries). You can find a good example of how to do that [here](https://css-tricks.com/designing-a-product-page-layout-with-flexbox/#article-header-id-4). -->
