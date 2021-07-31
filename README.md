@@ -40,6 +40,8 @@ If I want to make some cards quickly and make them look good, Bootstrap is my fr
 
 https://www.loom.com/share/3eb48e959a594472aaca145e6cd51f23
 
+----
+
 ## Project Requirements
 
 Your task is to build a grid of cards for a company's products. Here are the requirements for the basic structure of the cards.
@@ -103,7 +105,7 @@ Here's an image that shows how the cards should appear.
 1. Pick font(s) from [Google Font](https://fonts.google.com/) and include them in your project. You can use them wherever you want, but uh, don't make it too ugly. 
 
 #### Challenge 3: Sold out.
-1. For items that are no longer available, place [this image](https://raw.githubusercontent.com/morecallan/css102-e6/master/images/soldOut.png) over top of the product card. **Note this is complex positioning, it is going to challenge you.**. What I mean by "over the product card" is ![Sold Out](https://raw.githubusercontent.com/morecallan/css102-e6/master/images/CSS102-Mockup.png)
+1. For items that are no longer available, place [this image](https://raw.githubusercontent.com/morecallan/css102-e6/master/images/soldOut.png) over top of the product card. **Note this is complex positioning, it is going to challenge you.**.
 
 #### Challenge 4: Display responsively on any size screen!
 1. Use CSS to conditionally apply styles depending on the width of the screen! (or the size of the browser window) You can do this using a fancy thing called [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries). You can find a good example of how to do that [here](https://css-tricks.com/designing-a-product-page-layout-with-flexbox/#article-header-id-4). -->
