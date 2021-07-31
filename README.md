@@ -75,13 +75,6 @@ Your task is to build a grid of cards for a company's products. Here are the req
 1. The text for the product specification details and pricing details is bold.
 1. The availability element extends the full width of the card, with a dark grey background and yellow text.
 
-### Visual example
-
-Here's an image that shows how the cards should appear.
-
-![Static Web Product Cards Example](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/images/SW_HTML_CSS_exercise.png)
-
-
 ### Challenges
 
 #### Challenge 1: Switch up the colors!
@@ -108,4 +101,4 @@ Here's an image that shows how the cards should appear.
 1. For items that are no longer available, place [this image](https://raw.githubusercontent.com/morecallan/css102-e6/master/images/soldOut.png) over top of the product card. **Note this is complex positioning, it is going to challenge you.**.
 
 #### Challenge 4: Display responsively on any size screen!
-1. Use CSS to conditionally apply styles depending on the width of the screen! (or the size of the browser window) You can do this using a fancy thing called [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries). You can find a good example of how to do that [here](https://css-tricks.com/designing-a-product-page-layout-with-flexbox/#article-header-id-4). -->
+1. Use CSS to conditionally apply styles depending on the width of the screen! (or the size of the browser window)
